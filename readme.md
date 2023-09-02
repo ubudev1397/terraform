@@ -44,3 +44,24 @@ chmod 400  ~/.ssh/MyKeyPair.pem
 ```
 test 1
 ```
+</b></details>
+
+### test 2
+
+<details>
+<summary>test summary 2
+
+```
+test 2
+```
+
+</b></details>
+
+### test 3
+
+<details>
+<summary>test summary 3
+
+```
+test 3
+```
