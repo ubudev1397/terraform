@@ -1,3 +1,24 @@
+</b></details>
+
+### install terraform on mac
+
+<details>
+<summary>Command to install terraform via homebrew
+```
+brew tap hashicorp/tap
+```
+```
+brew install hashicorp/tap/terraform
+```
+```
+brew update
+```
+```
+brew upgrade hashicorp/tap/terraform
+```
+brew upgrade hashicorp/tap/terraform
+
+
 
 </b></details>
 
@@ -10,3 +31,5 @@
 aws ec2 create-key-pair --key-name MyKeyPair --query 'KeyMaterial' --output text > ~/.ssh/MyKeyPair.pem
 chmod 400  ~/.ssh/MyKeyPair.pem
 ```
+
+
