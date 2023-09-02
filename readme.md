@@ -7,6 +7,7 @@
 ```
 brew tap hashicorp/tap
 ```
+<details>
 ```
 brew install hashicorp/tap/terraform
 ```
