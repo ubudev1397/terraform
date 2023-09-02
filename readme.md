@@ -13,7 +13,7 @@ chmod 400  ~/.ssh/MyKeyPair.pem
 
 </b></details>
 
-###1
+### 1
 
 <details>
 <summary>install the HashiCorp tap, a repository of all our Homebrew packages.
@@ -23,7 +23,7 @@ brew tap hashicorp/tap
 ```
 </b></details>
 
-###2
+### 2
 
 <details>
 <summary>install Terraform with hashicorp/tap/terraform
@@ -34,7 +34,7 @@ brew install hashicorp/tap/terraform
 
 </b></details>
 
-###3
+### 3
 
 <details>
 <summary>To update to the latest version of Terraform, first update Homebrew.
@@ -43,7 +43,7 @@ brew install hashicorp/tap/terraform
 brew update
 ```
 
-###4
+### 4
 
 <details>
 <summary>run the upgrade command to download and use the latest Terraform version.
